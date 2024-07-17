@@ -1,3 +1,3 @@
 # Github-Course
-<br/>
-Author: Shahmeer Mughal
+
+Author: (Shahmeer Mughal)
